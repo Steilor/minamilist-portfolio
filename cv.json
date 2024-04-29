@@ -1,56 +1,51 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Esteilor Paniagua Mateo",
+    "label": "Desarrollador de Software",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "EsteilorPaniagua@gmail.com",
+    "phone": "+1 829-354-5345",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Soy un estudiante de término del Tecnólogo en Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA), apasionado por la programación y el desarrollo de software. Mi experiencia se ha centrado en proyectos diversos, desde el desarrollo de bases de datos relacionales en SQL Server, MySQL o PostgreSQL, aplicaciones de control de versiones utilizando Git y GitHub hasta el desarrollo de aplicaciones multicapas. He incursionado en pruebas automatizadas con Selenium en C#, y tengo sólidos conocimientos en el desarrollo en C# .NET. Un proyecto significativo en mi trayectoria es Northwind, una aplicación multicapas que integra tecnologías líderes en .NET como Patrones de diseño, estructura en MVC , freework de unity Data collection y  api's rest.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Bayona",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Santo Domingo Oeste"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Steilor",
+        "url": "https://github.com/Steilor"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
+      "name": "Northwind",
+      "position": "Desarrollador de Software",
+      "url": "https://github.com/Steilor/NorthWind",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrolle un proyecto multicapas que integraba diversas tecnologías de .NET, incluyendo Entity Framework, patrones de diseño, arquitectura MVC, Unity Data Collection y APIs REST. Este proyecto demostró mi capacidad para trabajar en entornos complejos y aplicar buenas prácticas de desarrollo de software.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
+      "name": "Proyecto Hotel",
+      "position": "Metodología SCRUM",
+      "url": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel",
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Colaboré en un equipo utilizando la metodología SCRUM y herramientas como Jira para gestionar el proyecto. Esta experiencia me permitió fortalecer mis habilidades de trabajo en equipo y adaptabilidad en entornos ágiles.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +73,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Instituto Tecnologico de las Americas (ITLA)",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "area": "Tecnologo en Desarrollo de Software",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2022-09-12",
+    "endDate": "2025-04-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -109,46 +104,19 @@
     "summary": "Description…"
   }],
   "skills": [
+    
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
+      "name": "C_Sharp",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Dotnet",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
@@ -173,17 +141,24 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Scrum",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Control de Versiones", "Colaboración"
       ]
     },
     {
-      "name": "React",
+      "name": "TeamWork",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Control de Versiones", "Colaboración"
+      ]
+    },
+    {
+      "name": "English",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración"
       ]
     }
   ],
@@ -210,19 +185,19 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Northwind",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto multinivel con la implementacion de las ultimas tecnologias.",
       "highlights": [
-        "Elige tu propia aventura",
+        "+ 4 Refactoris",
         "En desarrollo"
       ],
       "url": "https://mars.codes"
     },
     {
-      "name": "AdventJS",
+      "name": "Selenium",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Pruebas automatizadas con Selenium",
       "highlights": [
         "+1 millón de visitas",
         "Multidioma",
@@ -231,9 +206,9 @@
       "url": "https://adventjs.dev"
     },
     {
-      "name": "Codember",
+      "name": "Proyecto Hotel",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Projecto en equipo en el cual se realiza un sistema de reserva de habitaciones, usando Git como herramientad de control de versiones.",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
