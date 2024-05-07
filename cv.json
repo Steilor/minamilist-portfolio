@@ -6,7 +6,7 @@
     "email": "EsteilorPaniagua@gmail.com",
     "phone": "+1 829-354-5345",
     "url": "https://midu.dev",
-    "summary": "Soy un estudiante de término del Tecnólogo en Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA), apasionado por la programación y el desarrollo de software. Mi experiencia se ha centrado en proyectos diversos, desde el desarrollo de bases de datos relacionales en SQL Server, MySQL o PostgreSQL, aplicaciones de control de versiones utilizando Git y GitHub hasta el desarrollo de aplicaciones multicapas. He incursionado en pruebas automatizadas con Selenium en C#, y tengo sólidos conocimientos en el desarrollo en C# .NET. Un proyecto significativo en mi trayectoria es Northwind, una aplicación multicapas que integra tecnologías líderes en .NET como Patrones de diseño, estructura en MVC , freework de unity Data collection y  api's rest.",
+    "summary": "Soy un estudiante de término del Tecnólogo en Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA), apasionado por la programación y el desarrollo de software. Mi experiencia se ha centrado en proyectos diversos, desde el desarrollo de bases de datos relacionales en SQL Server, MySQL o PostgreSQL, aplicaciones de control de versiones utilizando Git y GitHub hasta el desarrollo de aplicaciones multicapas. He incursionado en pruebas automatizadas con Selenium en C#, y tengo sólidos conocimientos en el desarrollo en C# .NET.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -30,10 +30,10 @@
   "work": [
     {
       "name": "Northwind",
-      "position": "Desarrollador de Software",
+      "position": "Desarrollo de Software",
       "url": "https://github.com/Steilor/NorthWind",
-      "startDate": "2021-01-01",
-      "endDate": null,
+      "startDate": "2022-06-01",
+      "endDate": "2023-04-01",
       "summary": "Desarrolle un proyecto multicapas que integraba diversas tecnologías de .NET, incluyendo Entity Framework, patrones de diseño, arquitectura MVC, Unity Data Collection y APIs REST. Este proyecto demostró mi capacidad para trabajar en entornos complejos y aplicar buenas prácticas de desarrollo de software.",
       "highlights": [
         "Started the company"
@@ -43,19 +43,20 @@
       "name": "Proyecto Hotel",
       "position": "Metodología SCRUM",
       "url": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-01",
       "summary": "Colaboré en un equipo utilizando la metodología SCRUM y herramientas como Jira para gestionar el proyecto. Esta experiencia me permitió fortalecer mis habilidades de trabajo en equipo y adaptabilidad en entornos ágiles.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Integration-Services-Project",
+      "position": "Data integration",
+      "url": "https://github.com/Steilor/Integration-Services-Project",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "summary": "Este proyecto se centró en la integración de servicios utilizando tecnologías modernas y patrones de diseño eficientes. Se consumió una API REST, lo que permitió la interacción fluida con otros servicios y la manipulación de datos en tiempo real.",
       "highlights": [
         "Started the company"
       ]
@@ -106,7 +107,7 @@
   "skills": [
     
     {
-      "name": "C_Sharp",
+      "name": "CSharp",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
@@ -189,62 +190,67 @@
       "isActive": true,
       "description": "Proyecto multinivel con la implementacion de las ultimas tecnologias.",
       "highlights": [
-        "+ 4 Refactoris",
+        "+ 2 Refactoris",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/Steilor/NorthWind",
+      "github": "https://github.com/Steilor/NorthWind"
     },
     {
       "name": "Selenium",
       "isActive": true,
       "description": "Pruebas automatizadas con Selenium",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Automatizacion",
+        "Test",
+        "C#"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/Steilor/SeleniumProject",
+      "github": "https://github.com/Steilor/SeleniumProject"
     },
     {
       "name": "Proyecto Hotel",
       "isActive": true,
       "description": "Projecto en equipo en el cual se realiza un sistema de reserva de habitaciones, usando Git como herramientad de control de versiones.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "API",
+        "Front"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel/tree/Development",
+      "github": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel/tree/Development"
     },
     {
-      "name": "codi.link",
+      "name": "Integration-Services",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Uso de data integretion sql data server junto con los patrones Generic y objec.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Store procedure",
+        "Integration"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://github.com/Steilor/Integration-Services-Project",
+      "github": "https://github.com/Steilor/Integration-Services-Project"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Solid-Infrastructure",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Projecto con la estructura de los 5 principios SOLID.",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Principios SOLID ",
+        "Conceptos"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://github.com/Steilor/Solid-Infrastructure",
+      "github": "https://github.com/Steilor/Solid-Infrastructure"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Version-Control",
+      "isActive":true,
+      "description": "Este mini proyecto representa una implementación concisa que aprovecha ampliamente las funcionalidades de control de versiones proporcionadas por Git y GitHub.",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Git",
+        "GitHub"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/Steilor/POO3_GitTask",
+      "github": "https://github.com/Steilor/POO3_GitTask"
     }
   ]
 }
