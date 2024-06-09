@@ -3,7 +3,7 @@
     "name": "Esteilor Paniagua Mateo",
     "label": "Desarrollador de Software",
     "image": "/me.webp",
-    "email": "EsteilorPaniagua@gmail.com",
+    "email": "esteilorpaniaguamateo@gmail.com",
     "phone": "+1 829-354-5345",
     "url": "https://midu.dev",
     "summary": "Soy un estudiante de término del Tecnólogo en Desarrollo de Software en el Instituto Tecnológico de las Américas (ITLA), apasionado por la programación y el desarrollo de software. Mi experiencia se ha centrado en proyectos diversos, desde el desarrollo de bases de datos relacionales en SQL Server, MySQL o PostgreSQL, aplicaciones de control de versiones utilizando Git y GitHub hasta el desarrollo de aplicaciones multicapas. He incursionado en pruebas automatizadas con Selenium en C#, y tengo sólidos conocimientos en el desarrollo en C# .NET.",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": ""
+        "username": "Esteilor",
+        "url": "https://www.linkedin.com/in/esteilor-paniagua-mateo-4772b2267/"
       },
       {
         "network": "GitHub",
@@ -115,6 +115,20 @@
     },
     {
       "name": "Dotnet",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Html",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "css",
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"

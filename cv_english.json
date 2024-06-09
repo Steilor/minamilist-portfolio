@@ -1,66 +1,62 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Esteilor Paniagua Mateo",
+    "label": "Software Developer",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "esteilorpaniaguamateo@gmail.com",
+    "phone": "+1 829-354-5345",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "I am a final-year student in Software Development Technology at the Instituto Tecnológico de las Américas (ITLA), passionate about programming and software development. My experience has focused on various projects, from developing relational databases in SQL Server, MySQL, or PostgreSQL, version control applications using Git and GitHub, to multi-tier application development. I have ventured into automated testing with Selenium in C#, and I have solid knowledge in C# .NET development.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Bayona",
       "countryCode": "ES",
-      "region": "Spain"
+      "region": "Santo Domingo Oeste"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Esteilor",
+        "url": "https://www.linkedin.com/in/esteilor-paniagua-mateo-4772b2267/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Steilor",
+        "url": "https://github.com/Steilor"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Northwind",
+      "position": "Software Developer",
+      "url": "https://github.com/Steilor/NorthWind",
+      "startDate": "2022-06-01",
+      "endDate": "2023-04-01",
+      "summary": "I developed a multi-tier project that integrated various .NET technologies, including Entity Framework, design patterns, MVC architecture, Unity Data Collection, and REST APIs. This project demonstrated my ability to work in complex environments and apply good software development practices.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Proyecto Hotel",
+      "position": "SCRUM Methodology",
+      "url": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-01",
+      "summary": "I collaborated in a team using SCRUM methodology and tools like Jira to manage the project. This experience allowed me to strengthen my teamwork skills and adaptability in agile environments.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Integration-Services-Project",
+      "position": "Data integration",
+      "url": "https://github.com/Steilor/Integration-Services-Project",
+      "startDate": "2023-06-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "summary": "This project focused on service integration using modern technologies and efficient design patterns. A REST API was consumed, enabling smooth interaction with other services and real-time data manipulation.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +74,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Instituto Tecnológico de las Américas (ITLA)",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "area": "Software Development Technology",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2022-09-12",
+    "endDate": "2025-04-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -110,80 +106,59 @@
   }],
   "skills": [
     {
-      "name": "HTML",
+      "name": "CSharp",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
-      "name": "CSS",
+      "name": "Dotnet",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Databases", "SQL", "Data Storage", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Version Control", "Collaboration", "Source Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "Version Control", "Collaboration", "Source Code", "Git"
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Scrum",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Version Control", "Collaboration"
       ]
     },
     {
-      "name": "React",
+      "name": "TeamWork",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Version Control", "Collaboration"
+      ]
+    },
+    {
+      "name": "English",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration"
       ]
     }
   ],
@@ -210,66 +185,71 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Northwind",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Multi-level project with the implementation of the latest technologies.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "+ 2 Refactors",
+        "In development"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/Steilor/NorthWind",
+      "github": "https://github.com/Steilor/NorthWind"
     },
     {
-      "name": "AdventJS",
+      "name": "Selenium",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Automated testing with Selenium",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Automation",
+        "Testing",
+        "C#"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://github.com/Steilor/SeleniumProject",
+      "github": "https://github.com/Steilor/SeleniumProject"
     },
     {
-      "name": "Codember",
+      "name": "Proyecto Hotel",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Team project in which a room reservation system is developed, using Git as a version control tool.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "API",
+        "Frontend"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel/tree/Development",
+      "github": "https://github.com/Christian-Baez-Dep/Proyecto-Hotel/tree/Development"
     },
     {
-      "name": "codi.link",
+      "name": "Integration-Services",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "Using SQL Server data integration with Generic and Object patterns.",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "Stored Procedures",
+        "Integration"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://github.com/Steilor/Integration-Services-Project",
+      "github": "https://github.com/Steilor/Integration-Services-Project"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Solid-Infrastructure",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "Project with the structure of the 5 SOLID principles.",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "SOLID Principles",
+        "Concepts"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://github.com/Steilor/Solid-Infrastructure",
+      "github": "https://github.com/Steilor/Solid-Infrastructure"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "Version-Control",
+      "isActive": true,
+      "description": "This mini project represents a concise implementation that makes extensive use of the version control functionalities provided by Git and GitHub.",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "Git",
+        "GitHub"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/Steilor/POO3_GitTask",
+      "github": "https://github.com/Steilor/POO3_GitTask"
     }
   ]
 }
